@@ -8,7 +8,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		Hello helloGit = new Hello("Git");
 		System.out.println(helloGit.hello());
-		System.out.println("Git is cool!");
+		System.out.println(helloGit.cool());
 
 	}
 
