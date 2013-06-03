@@ -11,7 +11,7 @@ public class Hello {
 	}
 	
 	public String cool() {
-		return name + " is Cool!!!";
+		return name + " is Cooler!!!";
 	}
 
 }
