@@ -11,7 +11,7 @@ public class Hello {
 	}
 	
 	public String cool() {
-		return name + " is Cooler then Mercurial ???";
+		return name + " is not Cooler then Mercurial ???";
 	}
 
 }
